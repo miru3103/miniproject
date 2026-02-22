@@ -90,8 +90,9 @@ python app.py
 * Libraries: `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ---
-<img width="1412" height="780" alt="Screenshot 2025-10-28 232111" src="https://github.com/user-attachments/assets/396e3985-64a9-4243-a7d7-98a347d2826d" />
 <img width="1420" height="784" alt="Screenshot 2025-10-28 232032" src="https://github.com/user-attachments/assets/b874ba0e-349b-4986-af3e-a47d76d0b478" />
+<img width="1412" height="780" alt="Screenshot 2025-10-28 232111" src="https://github.com/user-attachments/assets/396e3985-64a9-4243-a7d7-98a347d2826d" />
+
 
 
 
